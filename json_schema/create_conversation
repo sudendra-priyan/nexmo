@@ -1,0 +1,8 @@
+{
+  "name": "customer_chat",
+  "display_name": "Customer Chat",
+  "image_url": "https://example.com/image.png",
+  "properties": {
+    "ttl": 60
+  }
+}
