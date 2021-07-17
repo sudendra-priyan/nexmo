@@ -33,6 +33,8 @@ Sequential Test Execution example:
 
 ```sh
 pytest -s -vv --env dev
+
+dev - Indicates test environment here
 ```
 
 Parallel Test Execution example:
