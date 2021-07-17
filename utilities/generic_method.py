@@ -46,6 +46,5 @@ class GenericMethod:
     def get_random_name(name):
         """
         Returns Random Name
-        @author: sudendra.priyan
         """
         return f'{name}_{randint(100000, 999999)}'
