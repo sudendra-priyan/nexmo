@@ -23,6 +23,7 @@ Executing the above commands will create a pip environment:
 ```sh
 (nexmo) sudendrapriyan@192 nexmo
 ```
+
 JWT Token
 
 ```sh
@@ -45,7 +46,7 @@ The above command will execute the test in 10 threads
 ```
 
 
-Findig the test logs
+Finding the test logs
 
 ```sh
 * Once the test execution is done, Check for the logs under test_logs folder
